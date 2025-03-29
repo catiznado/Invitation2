@@ -95,7 +95,7 @@ h2{
 }
 
 #button {
-    margin-top; 5vh;
+    margin-top: 5vh;
     font-size: 60%;
     background-color: black;
     padding: .2vw;
@@ -117,9 +117,6 @@ h2{
 
 #slide3 {
     margin-top: 5vh
-}
-
-#slide3 p {
 }
 
 #slide3 img {
